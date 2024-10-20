@@ -32,4 +32,22 @@ Improved Access to Health Information: Users will receive instant and reliable r
 Increased Awareness: The chatbot will help users understand their symptoms and empower them to take informed actions.
 User Satisfaction: A positive user experience through an engaging and intuitive chatbot interface.
 
+### Steps:
 
+#### Step 1: Install Required Software
+Install Python:
+Download and install the latest version of Python from python.org.
+Make sure to check the box that says "Add Python to PATH" during installation.
+Install Flask:
+Open a terminal or command prompt and install Flask using pip:
+```
+pip install Flask
+```
+Install Visual Studio Code (VS Code):
+Download and install VS Code from code.visualstudio.com.
+Install C++ Build Tools (if needed):
+For Windows, install the Visual Studio Build Tools from here.
+For Linux, you can install the build-essential package:
+```
+sudo apt-get install build-essential
+```
